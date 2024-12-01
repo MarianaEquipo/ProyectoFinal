@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.pie{
+    background-color: rgba(240, 224, 224, 0.5);
+    min-width:100vw;
+    margin-left: 0;
+    color: white;
+    font-size: 21px;
+}
+
+.icono-color {
+    color: rgba(122, 118, 118, 0.5);
+}
